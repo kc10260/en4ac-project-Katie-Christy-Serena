@@ -2,22 +2,22 @@
 
 > One sentence on what this project does and who it helps.
 
-**Team:** Name 1, Name 2, Name 3
-**Status:** Idea / Prototype / Testing / Done
+**Team:** Katie Cao, Christy Cai, Serena Cheng
+**Status:** Prototype & Testing
 
 ## The problem
 
-What problem are you solving? Who has this problem? Why does it matter?
+What problem are you solving? Who has this problem? Why does it matter? We are solving the problem of maintaining tension in crochet projects. Crocheters have this problem. It matters because keeping yarn tight while crocheting for hours is tiring for the crocheter.
 
 ## Our solution
 
 How does your project solve it? Add a photo or render of your prototype if you have one:
 
-![Prototype photo](docs/prototype.jpg)
+![Prototype photo] <img width="1004" height="574" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/1ec7ad16-5639-4bd7-abc8-d95ad7569237" />
 
 ## How it works
 
-Explain the main parts and how they fit together. For example: the sensor reads X, the microcontroller decides Y, the motor does Z.
+Explain the main parts and how they fit together. For example: the sensor reads X, the microcontroller decides Y, the motor does Z. The sensor checks if there is something to tighten, like yarn, and the motor moves the parts for it to tighten the yarn.
 
 ## Repository layout
 
