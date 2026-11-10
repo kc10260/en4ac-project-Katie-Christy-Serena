@@ -13,7 +13,8 @@ What problem are you solving? Who has this problem? Why does it matter? We are s
 
 How does your project solve it? Add a photo or render of your prototype if you have one:
 
-![Prototype photo] <img width="1004" height="574" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/1ec7ad16-5639-4bd7-abc8-d95ad7569237" />
+![Prototype photo] <img width="1004" height="574" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/f884e7af-b009-4c9a-8ada-a88478d84af5" />
+
 
 ## How it works
 
